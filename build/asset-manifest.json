@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/daftPunkConcert/static/js/main.fc2052f1.js",
-    "static/media/daftpunkaudio.mp3": "/daftPunkConcert/static/media/daftpunkaudio.f3c2512ad4c9ce39470d.mp3",
-    "static/media/wheel.glb": "/daftPunkConcert/static/media/wheel.8a18fb6a965d3783737a.glb",
-    "static/media/person.glb": "/daftPunkConcert/static/media/person.31a1b70c453bed5c7a68.glb",
-    "static/media/dirt.jpg": "/daftPunkConcert/static/media/dirt.9771d24bfd033e818a4c.jpg",
-    "static/media/stoneColor.jpg": "/daftPunkConcert/static/media/stoneColor.f28fbdc3f22482b487ba.jpg",
-    "static/media/woodnormal.jpg": "/daftPunkConcert/static/media/woodnormal.001a90951010ab533be3.jpg",
-    "static/media/deviceTexture.jpg": "/daftPunkConcert/static/media/deviceTexture.f8abc4c67e731254b255.jpg",
-    "static/media/wheelSupportTexture.jpg": "/daftPunkConcert/static/media/wheelSupportTexture.f8abc4c67e731254b255.jpg",
-    "static/media/metal.jpeg": "/daftPunkConcert/static/media/metal.d980b6267dfe5d650944.jpeg",
-    "static/media/woodColor.jpeg": "/daftPunkConcert/static/media/woodColor.c664490e101c5600ccca.jpeg",
-    "index.html": "/daftPunkConcert/index.html",
-    "main.fc2052f1.js.map": "/daftPunkConcert/static/js/main.fc2052f1.js.map"
+    "main.js": "/DaftPunkConcert-Threejs/static/js/main.c1be9b23.js",
+    "static/media/daftpunkaudio.mp3": "/DaftPunkConcert-Threejs/static/media/daftpunkaudio.f3c2512ad4c9ce39470d.mp3",
+    "static/media/wheel.glb": "/DaftPunkConcert-Threejs/static/media/wheel.8a18fb6a965d3783737a.glb",
+    "static/media/person.glb": "/DaftPunkConcert-Threejs/static/media/person.31a1b70c453bed5c7a68.glb",
+    "static/media/dirt.jpg": "/DaftPunkConcert-Threejs/static/media/dirt.9771d24bfd033e818a4c.jpg",
+    "static/media/stoneColor.jpg": "/DaftPunkConcert-Threejs/static/media/stoneColor.f28fbdc3f22482b487ba.jpg",
+    "static/media/woodnormal.jpg": "/DaftPunkConcert-Threejs/static/media/woodnormal.001a90951010ab533be3.jpg",
+    "static/media/deviceTexture.jpg": "/DaftPunkConcert-Threejs/static/media/deviceTexture.f8abc4c67e731254b255.jpg",
+    "static/media/wheelSupportTexture.jpg": "/DaftPunkConcert-Threejs/static/media/wheelSupportTexture.f8abc4c67e731254b255.jpg",
+    "static/media/metal.jpeg": "/DaftPunkConcert-Threejs/static/media/metal.d980b6267dfe5d650944.jpeg",
+    "static/media/woodColor.jpeg": "/DaftPunkConcert-Threejs/static/media/woodColor.c664490e101c5600ccca.jpeg",
+    "index.html": "/DaftPunkConcert-Threejs/index.html",
+    "main.c1be9b23.js.map": "/DaftPunkConcert-Threejs/static/js/main.c1be9b23.js.map"
   },
   "entrypoints": [
-    "static/js/main.fc2052f1.js"
+    "static/js/main.c1be9b23.js"
   ]
 }

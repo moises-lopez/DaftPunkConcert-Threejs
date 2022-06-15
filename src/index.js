@@ -277,6 +277,8 @@ function animateObjects() {
 
 
 }
+
+//Función para renderizar la scena y empezar la animación
 function render() {
     TWEEN.update();
     animateObjects()
@@ -287,7 +289,7 @@ function render() {
 
 
 
-
+//Función que se encarga de animar las spotlights
 function animateSpotlight() {
 
     tween( stageSpotLight1 );
@@ -300,7 +302,7 @@ function animateSpotlight() {
 
 }
 
-
+//Función que se encarga de girar las spotlights pero con el mismo target
 function tween( light ) {
     new TWEEN.Tween( light ).to( {
         angle: ( Math.random() * 0.4 ) + 0.1,
@@ -316,6 +318,9 @@ function tween( light ) {
         .easing( TWEEN.Easing.Quadratic.Out ).start();
 
 }
+
+//Función que se encarga de girar las spotlights pero con el mismo target (Esta es para las spotlights del dancefloor)
+
 function tweenDanceFloorLight( light ) {
     new TWEEN.Tween( light ).to( {
         angle: ( Math.random() * 0.15 ),
@@ -334,11 +339,9 @@ function tweenDanceFloorLight( light ) {
 
 
 function animate(){
-
     animateSpotlight()
 }
 
 render();
-
 animate()
 
