@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48f1c19-18ab-4b81-96ef-2c2eb61d8418" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/daftpunk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/indexBackup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/indexOther.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/assets/person.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/assets/person.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/assets/person.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/assets/wheel.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/assets/wheel.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/sounds/daftpunkaudio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/deviceTexture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/dirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/metal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/stoneColor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/wheelSupportTexture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/wood.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/woodColor.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/static/textures/woodnormal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daftpunk/src/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +84,8 @@
       <updated>1648420470970</updated>
       <workItem from="1648420473274" duration="1155000" />
       <workItem from="1651362904695" duration="22000" />
+      <workItem from="1654811625126" duration="620000" />
+      <workItem from="1655263920904" duration="303000" />
     </task>
     <servers />
   </component>
@@ -64,5 +102,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
